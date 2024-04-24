@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Pro:wght@200;400&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+h1{
+    text-align: center;
+    color:rgb(236, 114, 213);
+    font-weight: 900;
+    font-family: "Raleway";
+    font-size: 75px;
+}
+header{
+    width: 100%;
+    background-color:rgb(241, 248, 167);
+    height: 200 px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+h2{
+    text-align: center;
+    color:black;
+    font-weight: 700;
+    font-family: "Raleway";
+    font-size: 20px;
+}
+h3{
+    color:rgb(16, 184, 235);
+    font-weight: 800;
+    font-family: "Raleway";
+    font-size: 25px;
+}
+h4{
+    color:rgb(83, 199, 234);
+    font-weight: 800;
+    font-family: "Raleway";
+    font-size: 25px;
+}
+p{
+    color:rgb(0, 0, 0);
+    font-weight: 200;
+    font-family: "Raleway";
+    font-size: 20px;
+}
+a:link{
+    color:rgb(255, 0, 166)
+    
+}
+a:visited, #vinculo:visited{
+    color:rgb(148, 10, 107)
+    
+}
+a:active{
+    background-color: rgb(255, 250, 178);
+}
+a:hover{
+    text-decoration: underline;
+}
+img{
+    width: 20%;
+    margin: auto;
+    display: block;
+    border-radius: 50%;
+}
